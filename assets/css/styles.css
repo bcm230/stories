@@ -1,5 +1,11 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+h1 {
+    font-size: 20em;
+    color:orchid
+}
+
+p {
+    font-size: 1.5em;
+    color: tomato;
 }
