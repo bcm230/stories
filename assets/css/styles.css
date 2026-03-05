@@ -1,11 +1,21 @@
 /* styles.css */
 
+body {
+    background-color: red;
+    text-align: center;
+    margin-top: 250px
+}
+
 h1 {
-    font-size: 20em;
-    color:orchid
+    font-size: 10em;
+    color:white;
 }
 
 p {
-    font-size: 1.5em;
-    color: tomato;
+    font-size: 2.5em;
+    color: white;
+}
+
+a {
+    color: white;
 }
